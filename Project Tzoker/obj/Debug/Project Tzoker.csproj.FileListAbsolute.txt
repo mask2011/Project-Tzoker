@@ -1,0 +1,14 @@
+C:\Users\cmask\Documents\Bootcamp3\ClassroomProjects\Project Tzoker\Project Tzoker\bin\Debug\Project Tzoker.exe.config
+C:\Users\cmask\Documents\Bootcamp3\ClassroomProjects\Project Tzoker\Project Tzoker\bin\Debug\Project Tzoker.exe
+C:\Users\cmask\Documents\Bootcamp3\ClassroomProjects\Project Tzoker\Project Tzoker\bin\Debug\Project Tzoker.pdb
+C:\Users\cmask\Documents\Bootcamp3\ClassroomProjects\Project Tzoker\Project Tzoker\obj\Debug\Project Tzoker.csprojResolveAssemblyReference.cache
+C:\Users\cmask\Documents\Bootcamp3\ClassroomProjects\Project Tzoker\Project Tzoker\obj\Debug\Project Tzoker.csproj.CoreCompileInputs.cache
+C:\Users\cmask\Documents\Bootcamp3\ClassroomProjects\Project Tzoker\Project Tzoker\obj\Debug\Project Tzoker.exe
+C:\Users\cmask\Documents\Bootcamp3\ClassroomProjects\Project Tzoker\Project Tzoker\obj\Debug\Project Tzoker.pdb
+C:\Bootcamp3\C#\C# Projects\Project Tzoker\Project Tzoker\bin\Debug\Project Tzoker.exe.config
+C:\Bootcamp3\C#\C# Projects\Project Tzoker\Project Tzoker\bin\Debug\Project Tzoker.exe
+C:\Bootcamp3\C#\C# Projects\Project Tzoker\Project Tzoker\bin\Debug\Project Tzoker.pdb
+C:\Bootcamp3\C#\C# Projects\Project Tzoker\Project Tzoker\obj\Debug\Project Tzoker.csprojResolveAssemblyReference.cache
+C:\Bootcamp3\C#\C# Projects\Project Tzoker\Project Tzoker\obj\Debug\Project Tzoker.csproj.CoreCompileInputs.cache
+C:\Bootcamp3\C#\C# Projects\Project Tzoker\Project Tzoker\obj\Debug\Project Tzoker.exe
+C:\Bootcamp3\C#\C# Projects\Project Tzoker\Project Tzoker\obj\Debug\Project Tzoker.pdb
